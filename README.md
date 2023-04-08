@@ -1,10 +1,7 @@
 <h1 align="left">Olá, eu sou o Marcos!</h1>
 <h3 align="left">Um desenvolvedor amante por novos desafios.</h3>
-<br>
 
-![Snake animation](https://github.com/MarcosFajoli/MarcosFajoli/blob/output/github-contribution-grid-snake.svg)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosfajoli" alt="marcosfajoli" /></a> </p>
+![Snake animation](https://github.com/MarcosFajoli/MarcosFajoli/blob/output/github-contribution-grid-snake.svg)<br>
 
 - 🔭 Estou atualmente trabalhando no [FajoliATM-csharp](https://github.com/MarcosFajoli/fajoliatm-csharp)
 
