@@ -1,8 +1,6 @@
 <h1 align="left">Olá, eu sou o Marcos!</h1>
 <h3 align="left">Um desenvolvedor amante por novos desafios.</h3>
 
-![Snake animation](https://github.com/MarcosFajoli/MarcosFajoli/blob/output/github-contribution-grid-snake.svg)<br>
-
 - 🔭 Estou atualmente trabalhando no [FajoliATM-csharp](https://github.com/MarcosFajoli/fajoliatm-csharp)
 
 - 🌱 Estou no momento focado em aprender **C# e Python**
