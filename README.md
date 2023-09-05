@@ -1,10 +1,10 @@
 <h1 align="left">Olá, eu sou o Marcos!</h1>
 <h3 align="left">Um desenvolvedor amante por novos desafios.</h3>
 
-- 🔭 Estou atualmente trabalhando no [FajoliATM-csharp](https://github.com/MarcosFajoli/fajoliatm-csharp)
+- 🔭 Estou atualmente trabalhando no [pokedex-vuejs](https://github.com/MarcosFajoli/pokedex-vuejs)
 
-- 🌱 Estou no momento focado em aprender **C# e Python**
-
+- 🌱 Estou no momento focado em aprender **C# e Javascript**
+  
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MarcosFajoli](https://github.com/MarcosFajoli)
 
 - 📫 Me contate pelo e-mail **markosalmeidaa@gmail.com**
