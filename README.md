@@ -1,9 +1,9 @@
 <h1 align="left">Olá, eu sou o Marcos!</h1>
 <h3 align="left">Um desenvolvedor amante por novos desafios.</h3>
 
-- 🔭 Estou atualmente trabalhando no [pokedex-vuejs](https://github.com/MarcosFajoli/pokedex-vuejs)
+- 🔭 Estou atualmente trabalhando no [node-typescript-api](https://github.com/MarcosFajoli/node-typescript-api)
 
-- 🌱 Estou no momento focado em aprender **C# e Javascript**
+- 🌱 Estou no momento focado em aprender **Typescript e Node.js**
   
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MarcosFajoli](https://github.com/MarcosFajoli)
 
