@@ -1,9 +1,9 @@
 <h1 align="left">Olá, eu sou o Marcos!</h1>
 <h3 align="left">Um desenvolvedor amante por novos desafios.</h3>
 
-- 🔭 Estou atualmente trabalhando no [node-typescript-api](https://github.com/MarcosFajoli/node-typescript-api)
+- 🔭 Estou atualmente trabalhando no [collec-backend](https://github.com/MarcosFajoli/collec-backend)
 
-- 🌱 Estou no momento focado em aprender **Typescript e Node.js**
+- 🌱 Estou no momento focado em aprender **Typescript, Node.js e Nest.js**
   
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/MarcosFajoli](https://github.com/MarcosFajoli)
 
